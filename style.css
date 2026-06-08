@@ -1,21 +1,10 @@
 @font-face {
   font-family: 'Hanken';
 
-  src: url('../fonts/HankenGrotesk-VariableFont_wght.ttf')
+  src: url('/fonts/HankenGrotesk-VariableFont_wght.ttf')
     format('truetype');
 
   font-weight: 100 900;
-
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'BonVoyage';
-
-  src: url('../fonts/MADEBonVoyage-Thin.ttf')
-    format('truetype');
-
-  font-weight: 100;
 
   font-style: normal;
 }
@@ -811,8 +800,4 @@ transform: translateY(120px);
 
   display: none;
 
-}
-
-.filter-tag {
-  outline: 1px solid red;
 }
