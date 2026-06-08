@@ -1,0 +1,49 @@
+{
+
+"notes": "slug=title with dashes, folder=slug with 000 before, tags=blank",
+
+"Notes": "Mirror, Floor lamp, Table lamp, Hanging lamp, Wall piece, Table, Chair, Sculpture, Event / Club",
+
+  "title": "Silex - Polyphony",
+
+  "status": "published",
+
+  "tags": {
+
+    "year": "2022",
+
+    "category": "Wall piece",
+
+    "type": "Object",
+
+    "series": "Polyphony",
+
+    "size": "Small",
+
+    "materials": [
+      "Metal",
+      "Glass",
+      ""
+    ]
+
+  },
+
+  "specs": {
+
+  "Year": "2022",
+
+  "Material": "Tin, solder, ceramic, glass",
+
+  "Dimensions": "32 x 36 x 6 cm",
+
+  "Weight": "1.2 kg",
+
+  "Editions": "20"
+
+},
+
+  "description": [
+
+  ]
+
+}

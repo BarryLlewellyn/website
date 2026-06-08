@@ -1,0 +1,50 @@
+{
+
+"notes": "slug=title with dashes, folder=slug with 000 before, tags=blank",
+
+"Notes": "Mirror, Floor lamp, Table lamp, Hanging lamp, Wall piece, Table, Chair, Sculpture, Event / Club",
+
+  "title": "Zirconium - Polyphony",
+
+  "status": "published",
+
+  "tags": {
+
+    "year": "2023",
+
+    "category": "Mirror",
+
+    "type": "Object",
+
+    "series": "Polyphony",
+
+    "size": "Small",
+
+    "materials": [
+      "Metal",
+      "Ceramic",
+      "Glass"
+    ]
+
+  },
+
+  "specs": {
+
+  "Year": "2023",
+
+  "Material": "Tin, solder, ceramic, glass, electronics",
+
+  "Dimensions": "65 x 65 x 9 cm",
+
+  "Weight": "7 kg",
+
+  "Editions": "15"
+
+},
+
+  "description": [
+
+
+  ]
+
+}

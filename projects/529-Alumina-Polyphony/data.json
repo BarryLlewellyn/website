@@ -1,0 +1,51 @@
+{
+
+"notes": "slug=title with dashes, folder=slug with 000 before, tags=blank",
+
+"Notes": "Mirror, Floor lamp, Table lamp, Hanging lamp, Wall piece, Table, Chair, Sculpture, Event / Club",
+
+  "title": "Alumina - Polyphony",
+
+  "status": "published",
+
+  "tags": {
+
+    "year": "2022",
+
+    "category": "Wall piece",
+
+    "type": "Object",
+
+    "series": "Polyphony",
+
+    "size": "Small",
+
+    "materials": [
+      "Metal",
+      "Glass",
+      "Ceramic"
+    ]
+
+  },
+
+  "specs": {
+
+  "Year": "2022",
+
+  "Material": "Tin, solder, ceramic, glass, electronics",
+
+  "Dimensions": "38 x 29 x 7.5",
+
+  "Weight": "1.7 kg",
+
+  "Editions": "20"
+
+},
+
+  "description": [
+
+"Exhibition setting: The Frozen Fountain."
+
+  ]
+
+}

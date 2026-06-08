@@ -1,0 +1,53 @@
+{
+
+"notes": "slug=title with dashes, folder=slug with 000 before, tags=blank",
+
+"Notes": "Mirror, Floor lamp, Table lamp, Hanging lamp, Wall piece, Table, Chair, Sculpture, Event / Club",
+
+  "title": "Primordial Antics",
+
+  "status": "published",
+
+  "tags": {
+
+    "year": "2023",
+
+    "category": "Floor lamp",
+
+    "type": [
+"Object",
+""],
+
+    "series": "Primordial Antics",
+
+    "size": "Large",
+
+    "materials": [
+      "Foam",
+      "Ceramic",
+      "Found material"
+    ]
+
+  },
+
+  "specs": {
+
+  "Year": "2023",
+
+  "Material": "Foam, nylon fibres, steel, ceramic, concrete, stone, tin, light fixture",
+
+  "Dimensions": "150 x 60 x 75 cm",
+
+  "Weight": "40 kg",
+
+  "Editions": "Unique"
+
+},
+
+  "description": [
+
+    ""
+
+  ]
+
+}

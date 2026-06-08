@@ -1,0 +1,50 @@
+{
+
+"notes": "slug=title with dashes, folder=slug with 000 before, tags=blank",
+
+"Notes": "Mirror, Floor lamp, Table lamp, Hanging lamp, Wall piece, Table, Chair, Sculpture, Event / Club",
+
+  "title": "Tellurium - Polyphony",
+
+  "status": "published",
+
+  "tags": {
+
+    "year": "2023",
+
+    "category": "Wall piece",
+
+    "type": "Object",
+
+    "series": "Polyphony",
+
+    "size": "Large",
+
+    "materials": [
+      "Metal",
+      "Glass",
+      "Ceramic"
+    ]
+
+  },
+
+  "specs": {
+
+  "Year": "2023",
+
+  "Material": "Tin, solder, ceramic, glass, electronics",
+
+  "Dimensions": "140 x 120 x 7 cm",
+
+  "Weight": "7 kg",
+
+  "Editions": "Unique piece"
+
+},
+
+  "description": [
+
+
+  ]
+
+}

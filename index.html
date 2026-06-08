@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <title>Barry Llewellyn</title>
+
+  <link
+    rel="stylesheet"
+    href="style.css"
+  >
+
+</head>
+
+<body>
+
+  <!-- ---------------- HEADER ---------------- -->
+
+  <header class="site-header">
+
+   <div class="header-left">
+
+  <img
+    class="header-logo"
+    src="/logo.png"
+    alt="Barry Llewellyn"
+  >
+
+</div>
+
+    <div class="header-right-group">
+
+  <div class="header-copyright">
+
+    © Barry Llewellyn 2026  -  Click here to join the mailing list 
+
+  </div>
+
+  <div class="header-right">
+
+    <button id="aboutButton">About</button>
+
+    <button id="contactButton">Contact</button>
+
+    <a
+  href="https://www.instagram.com/barry_llewellyn__"
+  target="_blank"
+  rel="noopener noreferrer"
+  class="header-link"
+>
+  Instagram
+</a>
+
+  </div>
+
+</div>
+
+  </header>
+
+<!-- ---------------- HERO LOGO ---------------- -->
+
+<section class="hero-logo" id="heroLogo">
+
+  <img
+    src="/logo.png"
+    alt="Barry Llewellyn"
+  >
+
+</section>
+
+  <!-- ---------------- FILTER INDEX ---------------- -->
+
+  <section class="filter-index">
+
+    <div class="filter-groups">
+
+      <button class="clear-tags">
+        Clear tags [x]
+      </button>
+
+      <!-- YEAR -->
+
+      <div
+        class="filter-group"
+        data-category="year"
+      >
+
+        <h3>Year</h3>
+
+        <button class="filter-tag" data-tag="2026">2026</button>
+        <button class="filter-tag" data-tag="2025">2025</button>
+        <button class="filter-tag" data-tag="2024">2024</button>
+        <button class="filter-tag" data-tag="2023">2023</button>
+        <button class="filter-tag" data-tag="2022">2022</button>
+        <button class="filter-tag" data-tag="2021">2021</button>
+        <button class="filter-tag" data-tag="2020">2020</button>
+
+      </div>
+
+      <!-- CATEGORY -->
+
+      <div
+        class="filter-group"
+        data-category="category"
+      >
+
+        <h3>Category</h3>
+
+        <button class="filter-tag" data-tag="Mirror">Mirror</button>
+        <button class="filter-tag" data-tag="Floor lamp">Floor lamp</button>
+        <button class="filter-tag" data-tag="Table lamp">Table lamp</button>
+        <button class="filter-tag" data-tag="Hanging lamp">Hanging lamp</button>
+        <button class="filter-tag" data-tag="Wall piece">Wall piece</button>
+        <button class="filter-tag" data-tag="Table">Table</button>
+        <button class="filter-tag" data-tag="Sculpture">Sculpture</button>
+        <button class="filter-tag" data-tag="Event / Club">Event / Club</button>
+
+      </div>
+
+      <!-- MATERIAL -->
+
+      <div
+        class="filter-group"
+        data-category="materials"
+      >
+
+        <h3>Material</h3>
+
+        <button class="filter-tag" data-tag="Ceramic">Ceramic</button>
+        <button class="filter-tag" data-tag="Stone">Stone</button>
+        <button class="filter-tag" data-tag="Metal">Metal</button>
+        <button class="filter-tag" data-tag="Glass">Glass</button>
+        <button class="filter-tag" data-tag="Foam">Foam</button>
+        <button class="filter-tag" data-tag="Found material">Found material</button>
+
+      </div>
+
+      <!-- TYPE -->
+
+      <div
+        class="filter-group"
+        data-category="type"
+      >
+
+        <h3>Type</h3>
+
+        <button class="filter-tag" data-tag="Object">Object</button>
+<button class="filter-tag" data-tag="Curation">Curation</button>
+<button class="filter-tag" data-tag="Collaboration">Collaboration</button>
+
+      </div>
+
+<!-- SERIES -->
+
+<div
+  class="filter-group"
+  data-category="series"
+>
+
+  <h3>Series</h3>
+
+  <button class="filter-tag" data-tag="Polyphony">Polyphony</button>
+  <button class="filter-tag" data-tag="Lalalamp">Lalalamp</button>
+  <button class="filter-tag" data-tag="Primordial Antics">Primordial Antics</button>
+  <button class="filter-tag" data-tag="Habitat Lamp">Habitat Lamp</button>
+  <button class="filter-tag" data-tag="Adansonia">Adansonia</button>
+  <button class="filter-tag" data-tag="Vascular Bloom">Vascular Bloom</button>
+  <button class="filter-tag" data-tag="Perennial">Perennial</button>
+  <button class="filter-tag" data-tag="Other">Other</button>
+
+</div>
+
+      <!-- SIZE -->
+
+      <div
+        class="filter-group"
+        data-category="size"
+      >
+
+        <h3>Size</h3>
+
+        <button class="filter-tag" data-tag="Tiny">Tiny</button>
+        <button class="filter-tag" data-tag="Small">Small</button>
+        <button class="filter-tag" data-tag="Medium">Medium</button>
+        <button class="filter-tag" data-tag="Large">Large</button>
+        <button class="filter-tag" data-tag="Huge">Huge</button>
+
+      </div>
+
+    </div>
+
+  </section>
+
+  <!-- ---------------- HOMEPAGE GRID ---------------- -->
+
+  <main class="homepage-grid"></main>
+
+<!-- ---------------- ABOUT DRAWER ---------------- -->
+
+<div
+  class="drawer about-drawer"
+  id="aboutDrawer"
+>
+
+  <div class="about-layout">
+
+    <div class="meta-description about-exhibitions">
+
+      <p><strong>Exhibitions</strong></p>
+
+      <p>‘The Rooms - Gallerie Scene Ouverte’ - Brussels, BE - 2026</p>
+
+      <p>‘Signs of Construction: An Investigation into the Marks of Making’ - Rotterdam Art Week, Rotterdam, NL - 2026</p>
+
+      <p>‘Corps Terre Fibres’ - Gallery Scene Ouverte, Paris, FR - 2026</p>
+
+      <p>‘Design Miami’ - Gallery Scene Ouverte, Paris, FR - 2025</p>
+
+      <p>‘Fiber Festival’ - Garage Noord, Amsterdam, NL - 2025</p>
+
+      <p>‘Riviera’ - Gallery Scene Ouverte, Paris, FR - 2025</p>
+
+      <p>‘Future Classics’ - Frozen Fountain, Amsterdam, NL - 2025</p>
+
+      <p>‘This Is Us’ – De Groothandelsgebouw – Design Biennale Rotterdam, NL - 2025</p>
+
+      <p>‘Embellished Edges’ – Weena 70 – Design Biennale Rotterdam, NL – 2025</p>
+
+      <p>‘Home Coming’ - The Pool - DDW Eindhoven, NL - 2024</p>
+
+      <p>‘Glue Amsterdam’ - Frozen Fountain - Amsterdam, NL - 2024</p>
+
+      <p>‘Cocoon Commune’ - Weelde Festival - Rotterdam, NL - 2024</p>
+
+      <p>‘Design Miami Basel’ - Galerie Scene Ouverte, Paris, FR - 2024</p>
+
+      <p>‘VIEW’ - Modefabriek - Amsterdam, NL - 2024</p>
+
+      <p>‘Dutch Vacation’ - Huidenclub, Rotterdam, NL - 2024</p>
+
+      <p>‘Future Classics’ - Frozen Fountain, Amsterdam, NL - 2024</p>
+
+      <p>‘PAD’ - Galerie Scene Ouverte, Paris, FR - 2024</p>
+
+      <p>‘Purs Objets De Style’ - GOOD SESSIONS - Polaris centre d’art, Istres, FR - 2024</p>
+
+      <p>‘Heal Exhibition’ - Atrium x Club Mish Mish, Riyadh, SA - 2023</p>
+
+      <p>‘MESSMERIZING’ - DDW, Eindhoven, NL - 2023</p>
+
+      <p>‘Above the Fallow Land’ - Sectie C, DDW, Eindhoven, NL - 2023</p>
+
+      <p>‘Any Port in a Storm’ - Backyard-S DDW, Eindhoven, NL - 2023</p>
+
+      <p>‘Vienna Design Week’ - Vienna, AT - 2023</p>
+
+      <p>‘Groot Rotterdams Atelier Weekend’ - Rotterdam, NL - 2023</p>
+
+      <p>‘Frozen Fountain’ - GLUE, Amsterdam, NL - 2023</p>
+
+      <p>‘MESSMERIZING Pop Up’ - GLUE, Hotel Arena, Amsterdam, NL - 2023</p>
+
+      <p>‘Showup - Trendzone’ - Jan Trendman, Den Bosch, NL - 2023</p>
+
+      <p>‘INNERS’ - GOOD SESSIONS x Charlie Frau, Espace Atypiques, Arles, FR - 2023</p>
+
+      <p>‘Melbourne Design Fair’ - Studio Alm, Melbourne, AU - 2023</p>
+
+      <p>‘Objects for a New Kind of Society’ - DUTCH INVERTUALS, Salone del Mobile, Milan, IT - 2023</p>
+
+      <p>‘At The Edge Of Everything’ - Cabin, Berlin, DE - 2023</p>
+
+      <p>‘Beautiful Garbage – GOOD SESSIONS Booth – Collectible’ - Collectible Fair, Brussels, BE - 2023</p>
+
+      <p>‘Frozen Fountain Booth – Collectible’ - Collectible Fair, Brussels, BE - 2023</p>
+
+      <p>‘Object Rotterdam – New Talent’ - Rotterdam, NL - 2023</p>
+
+      <p>‘Quelque chose d’irréel’ - Galerie Scene Ouverte, Paris, FR - 2023</p>
+
+      <p>‘Cruising: Discomfort as a Tool to Depatriarchise Design’ - Huidenclub, Rotterdam, NL - 2022</p>
+
+      <p>Frozen Fountain 30th Anniversary - Frozen Fountain, Amsterdam, NL - 2022</p>
+
+      <p>Fragments - Galerie Scene Ouverte, Paris, FR - 2022</p>
+
+      <p>The Talent Pool - The Pool, Sectie C, Eindhoven, NL - Dutch Design Week - 2022</p>
+
+      <p>GS 22 - Design Academy Eindhoven Grad Show - Dutch Design Week, Eindhoven, NL - 2022</p>
+
+      <p>Glue Amsterdam - Frozen Fountain, Amsterdam, NL - 2022</p>
+
+      <p>Neo Normality - Solo Show - Salon Venman, Eindhoven, NL - 2022</p>
+
+      <p>Moving Traces 06 - Atelier Ecru Gallery, Ghent, BE - 2022</p>
+
+      <p>ESCAPISM - Collectible Curated Section, Brussels, BE - 2022</p>
+
+      <p>‘(Non) Depleted’ - Gr_und, Berlin, DE - 2021</p>
+
+      <p>‘(Non) Depleted’ - Virtual Exhibition - Dutch Design Week, Eindhoven, NL - 2020</p>
+
+      <p>‘Anarchy’ - Cor Unum Design Competition (1st Place), Den Bosch, NL - 2020</p>
+
+      <p>‘Film Elective’ - De Fabriek Group Show, Eindhoven, NL - 2019</p>
+
+      <p>‘Elephant in the Room’ - Dutch Design Week, Eindhoven, NL - 2019</p>
+
+    </div>
+
+    <div class="about-text">
+
+      <div class="about-text-grid">
+
+        <div class="meta-description">
+
+          <p>
+            Barry Llewellyn was born in Dublin, Ireland in 1998, and currently lives and works in Rotterdam, the Netherlands. He received his BA from Design Academy Eindhoven in 2022. His work exists at the intersection between design and sculpture.
+          </p>
+
+          <p>
+            Barry’s approach is heavily informed by the natural world - how materials, organisms and forces exist in a state of balance and interdependence. His process follows a similar logic, allowing materials to behave according to their own properties - guiding rather than dictating form.
+          </p>
+
+          <p>
+            This approach extends to how his work is positioned in time. Traditional techniques such as stone carving and ceramics are used alongside industrial and digital processes such as flocking and 3D printing. Natural materials sit alongside synthetic ones, forming logical paths and unexpected harmonies.
+          </p>
+
+        </div>
+
+        <div class="meta-description">
+
+          <p>
+            Barry’s process is rooted deeply in hands-on, material exploration. To make this possible, almost all processes are carried out in-house. Metal casting, glass fusing, plasma cutting and welding, among others, move freely within the studio, allowing him to play with materials in a light and unrestricted way.
+          </p>
+
+          <p>
+            His work exists in a number of private collections and hotels, as well as in publications such as DAMN magazine, Elle Decoration, New York Times, TL Mag and Architectural Digest.
+          </p>
+
+          <p>
+            The Polyphony series is represented by The Frozen Fountain in The Netherlands, and the Lalalamp series by Gallery Scene Ouverte in France. He has worked with a number of galleries in Europe and the Middle East, including Objects with Narratives, Atelier Ecru Gallery, GOOD SESSIONS and Atrum respectively.
+          </p>
+
+          <p>
+            His work has been shown in commercial fairs, such as PAD Paris, Design Miami, Melbourne Design Fair and Collectible Brussels, as well as non commercial settings such as Huidenclub Rotterdam and Polaris centre d’art. Art / design weeks include Rotterdam Art Week, Vienna Design Week, Dutch Design Week, Milan Design Week and GLUE Amsterdam.
+          </p>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <div class="about-image">
+
+      <img
+        src="/other-projects/about.jpg"
+        alt="Barry Llewellyn"
+      >
+
+    </div>
+
+  </div>
+
+</div>
+
+<!-- ---------------- CONTACT DRAWER ---------------- -->
+
+<div
+  class="drawer contact-drawer"
+  id="contactDrawer"
+>
+
+  <div class="contact-layout">
+
+    <div class="contact-column">
+
+      <p>Barry Llewellyn</p>
+
+      <p>
+        <a href="mailto:info@barryllewellyn.com">
+          info@barryllewellyn.com
+        </a>
+      </p>
+
+      <p>
+        <a
+          href="https://www.instagram.com/barry_llewellyn__"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          @barry_llewellyn__
+        </a>
+      </p>
+
+      <p>
+        Heer Danielstraat 29<br>
+        3073DC, Rotterdam
+      </p>
+
+      <p>
+        KVK: 74699024
+      </p>
+
+      <p>
+        BTW: NL002485152B62
+      </p>
+
+    </div>
+
+  </div>
+
+</div>
+
+  <!-- ---------------- CURSOR ---------------- -->
+
+  <div class="custom-cursor"></div>
+
+  <div class="drawer-overlay"></div>
+
+  <!-- ---------------- SCRIPTS ---------------- -->
+
+  <script type="module" src="app.js"></script>
+
+</body>
+
+</html>
+

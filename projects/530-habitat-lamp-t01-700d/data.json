@@ -1,0 +1,53 @@
+{
+
+"notes": "slug=title with dashes, folder=slug with 000 before, tags=blank",
+
+"Notes": "Mirror, Floor lamp, Table lamp, Hanging lamp, Wall piece, Table, Chair, Sculpture, Event / Club",
+
+  "title": "Habitat Lamp - T01 700d",
+
+  "status": "published",
+
+  "tags": {
+
+    "year": "2022",
+
+    "category": "Table lamp",
+
+    "type": [
+"Object",
+""],
+
+    "series": "Habitat Lamp",
+
+    "size": "Medium",
+
+    "materials": [
+      "Stone",
+      "Metal",
+      "Glass"
+    ]
+
+  },
+
+  "specs": {
+
+  "Year": "2022",
+
+  "Material": "Soap stone, tin, glass, steel, plastic, light fixture",
+
+  "Dimensions": "52 x 32 x 19 cm",
+
+  "Weight": "8 kg",
+
+  "Editions": "Unique"
+
+},
+
+  "description": [
+
+    ""
+
+  ]
+
+}

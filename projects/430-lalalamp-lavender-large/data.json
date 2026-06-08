@@ -1,0 +1,53 @@
+{
+
+"notes": "slug=title with dashes, folder=slug with 000 before, tags=blank",
+
+"Notes": "Mirror, Floor lamp, Table lamp, Hanging lamp, Wall piece, Table, Chair, Sculpture, Event / Club",
+
+  "title": "Lalalamp - Lavender Large",
+
+  "status": "published",
+
+  "tags": {
+
+    "year": "2022",
+
+    "category": "Floor lamp",
+
+    "type": [
+"Object",
+"Collaboration"],
+
+    "series": "Lalalamp",
+
+    "size": "Huge",
+
+    "materials": [
+      "Foam",
+      "Ceramic",
+      ""
+    ]
+
+  },
+
+  "specs": {
+
+  "Year": "2022",
+
+  "Material": "PU Foam, ceramic, steel, tin, light fixture",
+
+  "Dimensions": "205 x 60 x 125 cm",
+
+  "Weight": "108 kg",
+
+  "Editions": "Unique"
+
+},
+
+  "description": [
+
+    ""
+
+  ]
+
+}

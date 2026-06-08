@@ -1,0 +1,49 @@
+{
+
+"notes": "slug=title with dashes, folder=slug with 000 before, tags=blank",
+
+"Notes": "Mirror, Floor lamp, Table lamp, Hanging lamp, Wall piece, Table, Chair, Sculpture, Event / Club",
+
+  "title": "Galium - Polyphony",
+
+  "status": "published",
+
+  "tags": {
+
+    "year": "2023",
+
+    "category": "Wall piece",
+
+    "type": "Object",
+
+    "series": "Polyphony",
+
+    "size": "Medium",
+
+    "materials": [
+      "Metal",
+      "Glass",
+      "Ceramic"
+    ]
+
+  },
+
+  "specs": {
+
+  "Year": "2023",
+
+  "Material": "Tin, solder, ceramic, glass, electronics",
+
+  "Dimensions": "74 x 65 x 8 cm",
+
+  "Weight": "5.6 kg",
+
+  "Editions": "3"
+
+},
+
+  "description": [
+
+  ]
+
+}

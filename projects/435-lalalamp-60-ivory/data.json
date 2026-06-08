@@ -1,0 +1,53 @@
+{
+
+"notes": "slug=title with dashes, folder=slug with 000 before, tags=blank",
+
+"Notes": "Mirror, Floor lamp, Table lamp, Hanging lamp, Wall piece, Table, Chair, Sculpture, Event / Club",
+
+  "title": "Lalalamp - 60 Ivory",
+
+  "status": "published",
+
+  "tags": {
+
+    "year": "2026",
+
+    "category": "Table lamp",
+
+    "type": [
+"Object",
+"Collaboration"],
+
+    "series": "Lalalamp",
+
+    "size": "Medium",
+
+    "materials": [
+      "Foam",
+      "Ceramic",
+      ""
+    ]
+
+  },
+
+  "specs": {
+
+  "Year": "2026",
+
+  "Material": "PU foam, steel, ceramic, acrylic plaster, fibre glass, grouting, nylon fibres, light fixture ",
+
+  "Dimensions": "60 x 43 x 30 cm",
+
+  "Weight": "18 kg",
+
+  "Editions": "Unique"
+
+},
+
+  "description": [
+
+    ""
+
+  ]
+
+}

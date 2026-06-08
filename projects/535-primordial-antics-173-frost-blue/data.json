@@ -1,0 +1,53 @@
+{
+
+"notes": "slug=title with dashes, folder=slug with 000 before, tags=blank",
+
+"Notes": "Mirror, Floor lamp, Table lamp, Hanging lamp, Wall piece, Table, Chair, Sculpture, Event / Club",
+
+  "title": "Primordial Antics - 173 Frost Blue",
+
+  "status": "published",
+
+  "tags": {
+
+    "year": "2025",
+
+    "category": "Floor lamp",
+
+    "type": [
+"Object",
+""],
+
+    "series": "Primordial Antics",
+
+    "size": "Large",
+
+    "materials": [
+      "Foam",
+      "Ceramic",
+      "Found material"
+    ]
+
+  },
+
+  "specs": {
+
+  "Year": "2025",
+
+  "Material": "PU foam, nylon fibres, ceramic, steel, concrete, fibre glass, light fixture",
+
+  "Dimensions": "173 x 95 x 85 cm",
+
+  "Weight": "17 kg",
+
+  "Editions": "Unique"
+
+},
+
+  "description": [
+
+    "Setting photo by Tim Top for The Frozen Fountain"
+
+  ]
+
+}

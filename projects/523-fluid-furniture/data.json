@@ -1,0 +1,55 @@
+{
+
+"notes": "slug=title with dashes, folder=slug with 000 before, tags=blank",
+
+"Notes": "Mirror, Floor lamp, Table lamp, Hanging lamp, Wall piece, Table, Chair, Sculpture, Event / Club",
+
+  "title": "Fluid Furniture",
+
+  "status": "published",
+
+  "tags": {
+
+    "year": "2020",
+
+    "category": "Floor lamp",
+
+    "type": [
+"Object",
+"Collaboration"],
+
+    "series": "Other",
+
+    "size": "Large",
+
+    "materials": [
+      "Foam",
+      "Found material",
+      ""
+    ]
+
+  },
+
+  "specs": {
+
+  "Year": "2022",
+
+  "Material": "PU foam, wood, steel, polyester, epoxy",
+
+  "Dimensions": "",
+
+  "Weight": "",
+
+  "Editions": "Unique"
+
+},
+
+  "description": [
+
+    "Fluid furniture is a research into the new horizon of the material world. How will our approach to material change if we no longer have virgin materials?",
+
+"Fluid Furniture comprises ‘Lalalamp’ and ‘Chchchair’, which were made entirely from discarded couches. The process was carried out during the Covid-19 quarantine as the domestic space became a furniture transformation factory. Couches were painstakingly disassembled, stable by staple, splitting them back into their respective material categories. Foam was cut and spun into rope, upholstery fabric melted down into chord, polyester stuffing melted and compressed to create a sculptable pulp. From weaving, melting, pressing and shredding, Barry Llewellyn and Sarah Roseman utilised all the ingredients found in curbside couches to form these creations."
+
+  ]
+
+}

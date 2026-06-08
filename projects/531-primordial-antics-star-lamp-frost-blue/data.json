@@ -1,0 +1,53 @@
+{
+
+"notes": "slug=title with dashes, folder=slug with 000 before, tags=blank",
+
+"Notes": "Mirror, Floor lamp, Table lamp, Hanging lamp, Wall piece, Table, Chair, Sculpture, Event / Club",
+
+  "title": "Primordial Star Lamp - Frost Blue",
+
+  "status": "published",
+
+  "tags": {
+
+    "year": "2025",
+
+    "category": "Wall piece",
+
+    "type": [
+"Object",
+""],
+
+    "series": "Primordial Antics",
+
+    "size": "Small",
+
+    "materials": [
+      "Foam",
+      "Ceramic",
+      ""
+    ]
+
+  },
+
+  "specs": {
+
+  "Year": "2025",
+
+  "Material": "PU foam, nylon fibres, ceramic, steel, light fixture",
+
+  "Dimensions": "35 x 35 x 20 cm",
+
+  "Weight": "1 kg",
+
+  "Editions": "3"
+
+},
+
+  "description": [
+
+    ""
+
+  ]
+
+}

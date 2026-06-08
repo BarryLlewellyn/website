@@ -1,0 +1,53 @@
+{
+
+"notes": "slug=title with dashes, folder=slug with 000 before, tags=blank",
+
+"Notes": "Mirror, Floor lamp, Table lamp, Hanging lamp, Wall piece, Table, Chair, Sculpture, Event / Club",
+
+  "title": "Adansonia 001",
+
+  "status": "published",
+
+  "tags": {
+
+    "year": "2024",
+
+    "category": "Sculpture",
+
+    "type": [
+"Object",
+""],
+
+    "series": "Adansonia",
+
+    "size": "Small",
+
+    "materials": [
+      "Ceramic",
+      "",
+      ""
+    ]
+
+  },
+
+  "specs": {
+
+  "Year": "2024",
+
+  "Material": "Ceramic",
+
+  "Dimensions": "35 x 23 x 19 cm",
+
+  "Weight": "8.8 kg",
+
+  "Editions": "Unique"
+
+},
+
+  "description": [
+
+    ""
+
+  ]
+
+}

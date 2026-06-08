@@ -1,0 +1,49 @@
+{
+
+"notes": "slug=title with dashes, folder=slug with 000 before, tags=blank",
+
+"Notes": "Mirror, Floor lamp, Table lamp, Hanging lamp, Wall piece, Table, Chair, Sculpture, Event / Club",
+
+  "title": "Natrium - Polyphony",
+
+  "status": "published",
+
+  "tags": {
+
+    "year": "2022",
+
+    "category": "Wall piece",
+
+    "type": "Object",
+
+    "series": "Polyphony",
+
+    "size": "Medium",
+
+    "materials": [
+      "Metal",
+      "Ceramic",
+      "Glass"
+    ]
+
+  },
+
+  "specs": {
+
+  "Year": "2022",
+
+  "Material": "Tin, solder, ceramic, glass, electronics",
+
+  "Dimensions": "55 x 49 x 7 cm",
+
+  "Weight": "4 kg",
+
+  "Editions": "5"
+
+},
+
+  "description": [
+
+  ]
+
+}

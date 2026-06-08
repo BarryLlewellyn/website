@@ -1,0 +1,53 @@
+{
+
+"notes": "slug=title with dashes, folder=slug with 000 before, tags=blank",
+
+"Notes": "Mirror, Floor lamp, Table lamp, Hanging lamp, Wall piece, Table, Chair, Sculpture, Event / Club",
+
+  "title": "Pothoideae - Perennial",
+
+  "status": "published",
+
+  "tags": {
+
+    "year": "2022",
+
+    "category": "Table",
+
+    "type": [
+"Object",
+""],
+
+    "series": "Perennial",
+
+    "size": "Medium",
+
+    "materials": [
+      "Ceramic",
+      "Steel",
+      ""
+    ]
+
+  },
+
+  "specs": {
+
+  "Year": "2022",
+
+  "Material": "Nickel plated steel, ceramic, concrete, stone",
+
+  "Dimensions": "65 x 65 x 56 cm",
+
+  "Weight": "30 kg",
+
+  "Editions": "Unique"
+
+},
+
+  "description": [
+
+    ""
+
+  ]
+
+}

@@ -1,0 +1,53 @@
+{
+
+"notes": "slug=title with dashes, folder=slug with 000 before, tags=blank",
+
+"Notes": "Mirror, Floor lamp, Table lamp, Hanging lamp, Wall piece, Table, Chair, Sculpture, Event / Club",
+
+  "title": "Foam - Euorsa",
+
+  "status": "published",
+
+  "tags": {
+
+    "year": "2021",
+
+    "category": "Sculpture",
+
+    "type": [
+"Object",
+""],
+
+    "series": "Other",
+
+    "size": "Small",
+
+    "materials": [
+      "Found material",
+      "Foam",
+      ""
+    ]
+
+  },
+
+  "specs": {
+
+  "Year": "2021",
+
+  "Material": "Foam, tin, plastic",
+
+  "Dimensions": "31 x 16 x 12 cm",
+
+  "Weight": "",
+
+  "Editions": "Unique"
+
+},
+
+  "description": [
+
+    ""
+
+  ]
+
+}

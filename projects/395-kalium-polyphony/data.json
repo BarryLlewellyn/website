@@ -1,0 +1,51 @@
+{
+
+"notes": "slug=title with dashes, folder=slug with 000 before, tags=blank",
+
+"Notes": "Mirror, Floor lamp, Table lamp, Hanging lamp, Wall piece, Table, Chair, Sculpture, Event / Club",
+
+  "title": "Kalium - Polyphony",
+
+  "status": "published",
+
+  "tags": {
+
+    "year": "2022",
+
+    "category": "Mirror",
+
+    "type": "Object",
+
+    "series": "Polyphony",
+
+    "size": "Medium",
+
+    "materials": [
+      "Metal",
+      "Glass",
+      "Ceramic"
+    ]
+
+  },
+
+  "specs": {
+
+  "Year": "2022",
+
+  "Material": "Tin, solder, ceramics, glass, electronics",
+
+  "Dimensions": "80 x 65x 7 cm",
+
+  "Weight": "9 kg",
+
+  "Editions": "3"
+
+},
+
+  "description": [
+
+"Photos by Tijs Vervecken and Michele Margot respectively"
+
+  ]
+
+}

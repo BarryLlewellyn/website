@@ -1,0 +1,53 @@
+{
+
+"notes": "slug=title with dashes, folder=slug with 000 before, tags=blank",
+
+"Notes": "Mirror, Floor lamp, Table lamp, Hanging lamp, Wall piece, Table, Chair, Sculpture, Event / Club",
+
+  "title": "Adansonia 063",
+
+  "status": "published",
+
+  "tags": {
+
+    "year": "2025",
+
+    "category": "Sculpture",
+
+    "type": [
+"Object",
+""],
+
+    "series": "Adansonia",
+
+    "size": "Small",
+
+    "materials": [
+      "Ceramic",
+      "",
+      ""
+    ]
+
+  },
+
+  "specs": {
+
+  "Year": "2025",
+
+  "Material": "Ceramic",
+
+  "Dimensions": "19 x 11 x 13 cm",
+
+  "Weight": "1.2 kg",
+
+  "Editions": "Unique"
+
+},
+
+  "description": [
+
+    ""
+
+  ]
+
+}

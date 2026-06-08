@@ -1,0 +1,53 @@
+{
+
+"notes": "slug=title with dashes, folder=slug with 000 before, tags=blank",
+
+"Notes": "Mirror, Floor lamp, Table lamp, Hanging lamp, Wall piece, Table, Chair, Sculpture, Event / Club",
+
+  "title": "Foam 6",
+
+  "status": "published",
+
+  "tags": {
+
+    "year": "2021",
+
+    "category": "Wall piece",
+
+    "type": [
+"Object",
+""],
+
+    "series": "Other",
+
+    "size": "Medium",
+
+    "materials": [
+      "Foam",
+      "Metal",
+      "Found material"
+    ]
+
+  },
+
+  "specs": {
+
+  "Year": "2021",
+
+  "Material": "PU foam, aluminium, plastic, chipboard",
+
+  "Dimensions": "110 x 50 x 8 cm",
+
+  "Weight": "3 kg",
+
+  "Editions": "Unique"
+
+},
+
+  "description": [
+
+    ""
+
+  ]
+
+}

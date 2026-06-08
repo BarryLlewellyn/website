@@ -1,0 +1,59 @@
+{
+
+"notes": "slug=title with dashes, folder=slug with 000 before, tags=blank",
+
+"Notes": "Mirror, Floor lamp, Table lamp, Hanging lamp, Wall piece, Table, Chair, Sculpture, Event / Club",
+
+  "title": "Neo Normality",
+
+  "status": "published",
+
+  "tags": {
+
+    "year": "2022",
+
+    "category": "",
+
+    "type": [
+"Curation",
+""],
+
+    "series": "",
+
+    "size": "",
+
+    "materials": [
+      "",
+      "",
+      ""
+    ]
+
+  },
+
+  "specs": {
+
+  "Year": "2022",
+
+  "Material": "",
+
+  "Dimensions": "",
+
+  "Weight": "",
+
+  "Editions": ""
+
+},
+
+  "description": [
+
+    "Solo exhibition - Salon Venman.",
+
+"For Neo Normality, Barry Llewellyn presents a collection of works that blur the boundaries between the natural and the constructed. Working across a diverse range of materials, he explores how they can be shaped through intuition and process rather than strict control, allowing their inherent characteristics to influence the final outcome.",
+
+"Found and salvaged materials play a central role in the work. Equally interested in a broken ceramic fragment as a sheet of new metal, Llewellyn approaches materials as carriers of history, character, and possibility. Signs of wear, fracture, and deterioration reveal the material’s nature and often suggest new directions for its use.",
+
+"Through processes such as melting, hammering, bending, and casting, materials are transformed into organic forms that appear to have grown rather than been designed. The resulting works bring together disparate textures, colours, and histories, creating objects that feel both familiar and strangely otherworldly."
+
+  ]
+
+}

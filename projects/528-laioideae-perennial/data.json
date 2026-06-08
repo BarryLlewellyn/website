@@ -1,0 +1,53 @@
+{
+
+"notes": "slug=title with dashes, folder=slug with 000 before, tags=blank",
+
+"Notes": "Mirror, Floor lamp, Table lamp, Hanging lamp, Wall piece, Table, Chair, Sculpture, Event / Club",
+
+  "title": "Lasioideae - Perennial",
+
+  "status": "published",
+
+  "tags": {
+
+    "year": "2021",
+
+    "category": "Sculpture",
+
+    "type": [
+"Object",
+""],
+
+    "series": "Perennial",
+
+    "size": "Large",
+
+    "materials": [
+      "Steel",
+      "Ceramic",
+      "Found material"
+    ]
+
+  },
+
+  "specs": {
+
+  "Year": "2021",
+
+  "Material": "Nickel plated steel, ceramic, electronics",
+
+  "Dimensions": "100 x 40 x 40 cm",
+
+  "Weight": "7 kg",
+
+  "Editions": "Unique"
+
+},
+
+  "description": [
+
+    ""
+
+  ]
+
+}

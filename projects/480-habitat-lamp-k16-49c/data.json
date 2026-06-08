@@ -1,0 +1,53 @@
+{
+
+"notes": "slug=title with dashes, folder=slug with 000 before, tags=blank",
+
+"Notes": "Mirror, Floor lamp, Table lamp, Hanging lamp, Wall piece, Table, Chair, Sculpture, Event / Club",
+
+  "title": "Habitat Lamp K16 49c",
+
+  "status": "published",
+
+  "tags": {
+
+    "year": "2023",
+
+    "category": "Table lamp",
+
+    "type": [
+"Object",
+""],
+
+    "series": "Habitat Lamp",
+
+    "size": "Medium",
+
+    "materials": [
+      "Stone",
+      "Metal",
+      "Glass"
+    ]
+
+  },
+
+  "specs": {
+
+  "Year": "2023",
+
+  "Material": "Soap stone, tin, glass, plastic, light fixture",
+
+  "Dimensions": "38 x 25 x 20 cm",
+
+  "Weight": "7 kg",
+
+  "Editions": "Unique"
+
+},
+
+  "description": [
+
+    ""
+
+  ]
+
+}

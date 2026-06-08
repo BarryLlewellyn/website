@@ -1,0 +1,53 @@
+{
+
+"notes": "slug=title with dashes, folder=slug with 000 before, tags=blank",
+
+"Notes": "Mirror, Floor lamp, Table lamp, Hanging lamp, Wall piece, Table, Chair, Sculpture, Event / Club",
+
+  "title": "Plastic - Euorsa",
+
+  "status": "published",
+
+  "tags": {
+
+    "year": "2021",
+
+    "category": "Sculpture",
+
+    "type": [
+"Object",
+""],
+
+    "series": "Other",
+
+    "size": "Small",
+
+    "materials": [
+      "Found material",
+      "Ceramic",
+      ""
+    ]
+
+  },
+
+  "specs": {
+
+  "Year": "2021",
+
+  "Material": "Ceramic, plastic, steel wire, expanding foam",
+
+  "Dimensions": "20 x 18 x 15 cm",
+
+  "Weight": "1 kg",
+
+  "Editions": "Unique"
+
+},
+
+  "description": [
+
+    ""
+
+  ]
+
+}

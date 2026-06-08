@@ -1,0 +1,52 @@
+{
+
+"notes": "slug=title with dashes, folder=slug with 000 before, tags=blank",
+
+"Notes": "Mirror, Floor lamp, Table lamp, Hanging lamp, Wall piece, Table, Chair, Sculpture, Event / Club",
+
+  "title": "Epsom - Polyphony",
+
+  "status": "published",
+
+  "tags": {
+
+    "year": "2023",
+
+    "category": "Mirror",
+
+    "type": "Object",
+
+    "series": "Polyphony",
+
+    "size": "Large",
+
+    "materials": [
+      "Metal",
+      "Glass",
+      "Ceramic"
+    ]
+
+  },
+
+  "specs": {
+
+  "Year": "2022",
+
+  "Material": "Tin, solder, ceramic, glass, electronics",
+
+  "Dimensions": "118 x 88 x 8 cm",
+
+  "Weight": "15 kg",
+
+  "Editions": "3"
+
+},
+
+  "description": [
+
+"Setting photos by Frozen Fountain"
+
+
+  ]
+
+}

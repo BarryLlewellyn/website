@@ -1,0 +1,53 @@
+{
+
+"notes": "slug=title with dashes, folder=slug with 000 before, tags=blank",
+
+"Notes": "Mirror, Floor lamp, Table lamp, Hanging lamp, Wall piece, Table, Chair, Sculpture, Event / Club",
+
+  "title": "Primordial Murmurs",
+
+  "status": "published",
+
+  "tags": {
+
+    "year": "2023",
+
+    "category": "Table lamp",
+
+    "type": [
+"Object",
+""],
+
+    "series": "Primordial Antics",
+
+    "size": "Medium",
+
+    "materials": [
+      "Foam",
+      "Ceramic",
+      "Found material"
+    ]
+
+  },
+
+  "specs": {
+
+  "Year": "2023",
+
+  "Material": "PU foam, flock, steel, ceramic, concrete, stone, tin, light fixture",
+
+  "Dimensions": "100 x 45 x 45 cm",
+
+  "Weight": "8 kg",
+
+  "Editions": "Unique"
+
+},
+
+  "description": [
+
+    ""
+
+  ]
+
+}

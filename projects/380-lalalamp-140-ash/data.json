@@ -1,0 +1,53 @@
+{
+
+"notes": "slug=title with dashes, folder=slug with 000 before, tags=blank",
+
+"Notes": "Mirror, Floor lamp, Table lamp, Hanging lamp, Wall piece, Table, Chair, Sculpture, Event / Club",
+
+  "title": "Lalalamp - 140 Ash",
+
+  "status": "published",
+
+  "tags": {
+
+    "year": "2026",
+
+    "category": "Floor lamp",
+
+    "type": [
+"Object",
+"Collaboration"],
+
+    "series": "Lalalamp",
+
+    "size": "Large",
+
+    "materials": [
+      "Foam",
+      "Ceramic",
+      ""
+    ]
+
+  },
+
+  "specs": {
+
+  "Year": "2026",
+
+  "Material": "PU foam, steel, concrete, ceramic, acrylic plaster, fibreglass, grouting, nylon fibres, light fixture",
+
+  "Dimensions": "140 x 59 x 40 cm",
+
+  "Weight": "34 kg",
+
+  "Editions": "Unique"
+
+},
+
+  "description": [
+
+    ""
+
+  ]
+
+}

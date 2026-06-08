@@ -1,0 +1,53 @@
+{
+
+"notes": "slug=title with dashes, folder=slug with 000 before, tags=blank",
+
+"Notes": "Mirror, Floor lamp, Table lamp, Hanging lamp, Wall piece, Table, Chair, Sculpture, Event / Club",
+
+  "title": "Lalalamp - 170 Tan",
+
+  "status": "published",
+
+  "tags": {
+
+    "year": "2024",
+
+    "category": "Floor lamp",
+
+    "type": [
+"Object",
+"Collaboration"],
+
+    "series": "Lalalamp",
+
+    "size": "Large",
+
+    "materials": [
+      "Foam",
+      "Ceramic",
+      ""
+    ]
+
+  },
+
+  "specs": {
+
+  "Year": "2024",
+
+  "Material": "PU foam, flock, ceramic, tin, steel, concrete, light fixture",
+
+  "Dimensions": "170 x 100 x 45 cm",
+
+  "Weight": "64 kg",
+
+  "Editions": "Unique"
+
+},
+
+  "description": [
+
+    ""
+
+  ]
+
+}

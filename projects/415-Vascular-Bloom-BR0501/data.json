@@ -1,0 +1,49 @@
+{
+
+"notes": "slug=title with dashes, folder=slug with 000 before, tags=blank",
+
+  "title": "Vascular Bloom BR0501",
+
+  "status": "published",
+
+  "tags": {
+
+    "year": "2026",
+
+    "category": "Hanging lamp",
+
+    "type": "Object",
+
+     "series": "Vascular Bloom",
+
+    "size": "Medium",
+
+    "materials": [
+      "Ceramic",
+      "",
+      ""
+    ]
+
+  },
+
+  "specs": {
+
+  "year": "2026",
+
+  "material": "Ceramic, steel, light fixture",
+
+  "dimensions": "86 x 60 x 50 cm",
+
+  "weight": "20 kg",
+
+  "editions": "Unique piece"
+
+},
+
+  "description": [
+
+    ""
+
+  ]
+
+}

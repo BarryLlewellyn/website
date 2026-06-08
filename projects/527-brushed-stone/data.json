@@ -1,0 +1,53 @@
+{
+
+"notes": "slug=title with dashes, folder=slug with 000 before, tags=blank",
+
+"Notes": "Mirror, Floor lamp, Table lamp, Hanging lamp, Wall piece, Table, Chair, Sculpture, Event / Club",
+
+  "title": "Brushed stone",
+
+  "status": "published",
+
+  "tags": {
+
+    "year": "2021",
+
+    "category": "Sculpture",
+
+    "type": [
+"Object",
+""],
+
+    "series": "Other",
+
+    "size": "Tiny",
+
+    "materials": [
+      "Stone",
+      "Found material",
+      ""
+    ]
+
+  },
+
+  "specs": {
+
+  "Year": "2021",
+
+  "Material": "Soap stone, aluminium, plastic",
+
+  "Dimensions": "25 x 15 x 12 cm",
+
+  "Weight": "1.5 kg",
+
+  "Editions": "Unique"
+
+},
+
+  "description": [
+
+    ""
+
+  ]
+
+}

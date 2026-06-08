@@ -1,0 +1,57 @@
+{
+
+"notes": "slug=title with dashes, folder=slug with 000 before, tags=blank",
+
+"Notes": "Mirror, Floor lamp, Table lamp, Hanging lamp, Wall piece, Table, Chair, Sculpture, Event / Club",
+
+  "title": "Converging Aeons",
+
+  "status": "published",
+
+  "tags": {
+
+    "year": "2023",
+
+    "category": "Sculpture",
+
+    "type": [
+"Object",
+""],
+
+    "series": "Polyphony",
+
+    "size": "Large",
+
+    "materials": [
+      "Metal",
+      "Glass",
+      ""
+    ]
+
+  },
+
+  "specs": {
+
+  "Year": "2023",
+
+  "Material": "Tin, solder, glass, electronics, steel",
+
+  "Dimensions": "150 x 80 x 13 cm",
+
+  "Weight": "14 kg",
+
+  "Editions": "Unique"
+
+},
+
+  "description": [
+
+"--",
+
+    "Came glassworking, often referred to as stained glass, is a technique which involves joining pieces of glass together using lead came or copper foil to create images or patterns. The middle ages saw an explosion of stained glass throughout Europe, as churches began adopting the intricate, colourful feature. As time moved on, glass became more pure and the joining methods became more refined but the technique more or less has stayed the same.",
+
+"In the 21st century, glass takes on a more ubiquitous role in our lives. It acts as the medium between our physical and digital realities. Converging Aeons exists at the meeting point between our technological present and our craft based past. By combining elements such as solar panels and LEDs with traditional copper foil techniques, Llewellyn explores ways in which we can embrace our heritage while looking forward to the future. The outcome manifests in an ornate, cast aluminium hanging spectacle. During the day, light passes through its fused glass while also charging solar panels embedded in the piece. At night the piece accentuates different forms through its light show."
+
+  ]
+
+}

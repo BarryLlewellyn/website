@@ -1,0 +1,53 @@
+{
+
+"notes": "slug=title with dashes, folder=slug with 000 before, tags=blank",
+
+"Notes": "Mirror, Floor lamp, Table lamp, Hanging lamp, Wall piece, Table, Chair, Sculpture, Event / Club",
+
+  "title": "Club Lights 01",
+
+  "status": "published",
+
+  "tags": {
+
+    "year": "2025",
+
+    "category": "Event / Club",
+
+    "type": [
+"Object",
+"Collaboration"],
+
+    "series": "Other",
+
+    "size": "Medium",
+
+    "materials": [
+      "Metal",
+      "",
+      ""
+    ]
+
+  },
+
+  "specs": {
+
+  "Year": "2025",
+
+  "Material": "Steel",
+
+  "Dimensions": "",
+
+  "Weight": "",
+
+  "Editions": ""
+
+},
+
+  "description": [
+
+    "Club lighting installation created for Fiber Festival at Garage Noord. The installation is composed of a series of 16 sculptures for the dancefloor, supporting the theme of wilderness, and how mother nature eventually breaks everything down to its original state. It was important to consider how the material interacted with the lighting - especially in such a dark environment. Everything was formed out of steel sheet metal, which was plasma cut, hammered, bent and welded into forms which housed DMX controlled lighting, operated by George Kelly. Nestled amongst the steel elements were matrix displays, showing real time visuals being created by Tharim Cornelisse."
+
+  ]
+
+}

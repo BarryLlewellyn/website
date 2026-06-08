@@ -1,0 +1,29 @@
+{
+  "notes": "slug=title with dashes, folder=slug with 000 before, tags=blank",
+  "title": "Flower Patch",
+  "status": "published",
+  "tags": {
+    "year": "2024",
+    "category": "Wall piece",
+    "type": "Object",
+    "series": "Other",
+    "size": "Medium",
+    "materials": [
+      "Glass",
+      "Ceramic",
+      "Metal"
+    ]
+  },
+  "specs": {
+    "year": "2024",
+    "material": "Glass, ceramics, aluminium, wood, steel, light fixtures",
+    "dimensions": "88 x 52 x 10 cm",
+    "weight": "8.2 kg",
+    "editions": "Unique"
+  },
+  "description": [
+    "Flower Patch emerged from time spent tending the garden surrounding the studio, practicing the quiet rituals of growth, care, and observation. Parallels can be drawn between the planting of seeds in the garden, and the firing of ceramics and glass in the kiln. When sowing seeds, the varieties chosen, the soil type, the positioning and watering schedule all affect the outcome of the blossoming plants. Similarly, the firing schedules, clay body, glaze recipes and placement also influence the outcome of fired pieces in a way that can only be fully understood in retrospect, once the ritual has been completed.",
+
+"Flower Patch was created for the show ‘Dutch Vacation’, curated by Liv Vaisberg, which took place at Huiden Club. The show featured work from 30 designers, coming from 3 generations, all based in Rotterdam."
+  ]
+}
