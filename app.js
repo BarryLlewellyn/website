@@ -142,13 +142,23 @@ sortedProjects.forEach(project => {
 
   projectCard.dataset.title = project.title;
 
+  const projectIndex =
+  sortedProjects.indexOf(project);
+
   const image =
-    document.createElement('img');
+  document.createElement('img');
 
-  image.src =
-    `projects/${project.folder}/01.jpg`;
+image.src =
+  `projects/${project.folder}/01.jpg`;
 
-  image.alt = project.title;
+image.alt = project.title;
+
+image.loading =
+  projectIndex < 4
+    ? 'eager'
+    : 'lazy';
+
+image.decoding = 'async';
 
   projectCard.appendChild(image);
 
@@ -386,7 +396,7 @@ function loadDrawerImages(project, drawer) {
 
   const loadedImages = [];
 
-  for (let i = 1; i <= 99; i++) {
+  for (let i = 1; i <= 8; i++) {
 
     const number =
       String(i).padStart(2, '0');
