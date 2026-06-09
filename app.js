@@ -312,36 +312,40 @@ const projectImages =
 const drawers =
   document.querySelectorAll('.drawer');
 
-document.addEventListener('mousemove', (e) => {
+if (window.innerWidth > 900) {
 
-  customCursor.style.left = `${e.clientX}px`;
+  document.addEventListener('mousemove', (e) => {
 
-  customCursor.style.top = `${e.clientY}px`;
+    customCursor.style.left = `${e.clientX}px`;
 
-});
+    customCursor.style.top = `${e.clientY}px`;
 
-document.addEventListener('mouseover', (e) => {
+  });
 
-  const image =
-    e.target.closest('.project-card img');
+  document.addEventListener('mouseover', (e) => {
 
-  if (!image) {
+    const image =
+      e.target.closest('.project-card img');
 
-    customCursor.style.opacity = '0';
+    if (!image) {
 
-    return;
+      customCursor.style.opacity = '0';
 
-  }
+      return;
 
-  const projectCard =
-    image.closest('.project-card');
+    }
 
-  customCursor.style.opacity = '1';
+    const projectCard =
+      image.closest('.project-card');
 
-  customCursor.textContent =
-    projectCard.dataset.title;
+    customCursor.style.opacity = '1';
 
-});
+    customCursor.textContent =
+      projectCard.dataset.title;
+
+  });
+
+}
 
 /* ---------------- DRAWER POSITION ---------------- */
 
@@ -425,6 +429,12 @@ function openDrawer(slug) {
     document.getElementById(slug);
 
   if (!targetDrawer) return;
+
+  if (window.innerWidth <= 900) {
+
+  targetDrawer.style.top = '0';
+
+}
 
   const project =
     sortedProjects.find(p => p.slug === slug);

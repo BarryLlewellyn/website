@@ -551,21 +551,48 @@ transform: translateY(120px);
 
 }
 
-@media (max-width: 700px) {
+@media (max-width: 900px) {
+
+  /* ---------------- GRID ---------------- */
 
   .homepage-grid {
 
     grid-template-columns: 1fr;
+    row-gap: 60px;
 
-    --image-size: 75vw;
+    --image-size: 88vw;
 
-    row-gap: 80px;
+    padding: 20px 20px 120px;
+
+  }
+
+  .project-card {
+
+    justify-content: center;
+
+  }
+
+  /* ---------------- DRAWERS ---------------- */
+
+  .drawer {
+
+    top: 0 !important;
+
+    left: 0;
+    right: 0;
+    bottom: 0;
+
+    height: 100vh;
+
+    border-top: none;
 
   }
 
   .drawer-layout {
 
-    grid-template-columns: 1fr;
+    display: flex;
+
+    flex-direction: column;
 
   }
 
@@ -575,7 +602,93 @@ transform: translateY(120px);
 
     height: auto;
 
-    min-height: auto;
+    padding: 20px;
+
+  }
+
+  .drawer-text-grid {
+
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 30px;
+
+  }
+
+  .drawer-images {
+
+    padding: 0 20px 20px;
+
+  }
+
+  .drawer-images img {
+
+    margin-bottom: 20px;
+
+  }
+
+  /* ---------------- ABOUT ---------------- */
+
+  .about-layout {
+
+    display: flex;
+
+    flex-direction: column;
+
+    height: auto;
+
+    padding: 20px;
+
+  }
+
+  .about-text-grid {
+
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 20px;
+
+  }
+
+  .about-image {
+
+    order: -1;
+
+  }
+
+  .about-exhibitions {
+
+    height: auto;
+
+    overflow: visible;
+
+    padding: 0;
+
+  }
+
+  /* ---------------- CONTACT ---------------- */
+
+  .contact-layout {
+
+    display: block;
+
+    padding: 20px;
+
+  }
+
+  /* ---------------- HEADER ---------------- */
+
+  .header-copyright {
+
+    display: none;
+
+  }
+
+  .custom-cursor {
+
+    display: none;
 
   }
 
