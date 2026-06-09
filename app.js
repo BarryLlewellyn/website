@@ -1,3 +1,6 @@
+const isTouchDevice =
+  navigator.maxTouchPoints > 0;
+
 /* ---------------- IMPORT PROJECTS ---------------- */
 
 const projectModules =
@@ -114,9 +117,13 @@ const sortedProjects = [...projects]
 
   .sort((a, b) => {
 
-  return a.folder.localeCompare(b.folder);
+    return a.folder.localeCompare(b.folder);
 
-});
+  });
+
+window.sortedProjects = sortedProjects;
+
+window.seriesDescriptions = seriesDescriptions;
 
 /* ---------------- GENERATE ---------------- */
 
@@ -303,6 +310,8 @@ combinedDescription.forEach(paragraph => {
   document.body.appendChild(drawer);
 
 });
+
+if (!isTouchDevice) {
 
 /* ---------------- CURSOR ---------------- */
 
@@ -1147,3 +1156,5 @@ document.addEventListener('click', (e) => {
   filterProjects();
 
 });
+
+}
