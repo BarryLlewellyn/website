@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://barryllewellyn.com/sitemap.xml
